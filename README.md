@@ -1,5 +1,4 @@
 # Gender and Age Recognition Through Voice Data
-### Noah Bardenstein, Evan Donohoe, Vishakh Subramanian, Kyle Takeuchi
 
 **How to run the iPython notebook using the provided .csv files**
 The dataset that we used to train and test our model is 'full_dataset_label.csv'
