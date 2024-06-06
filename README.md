@@ -1,5 +1,4 @@
 # Gender and Age Recognition Through Voice Data
-## ECE4424 | Group 6
 ### Noah Bardenstein, Evan Donohoe, Vishakh Subramanian, Kyle Takeuchi
 
 **How to run the iPython notebook using the provided .csv files**
